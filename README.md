@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Chandra+Lokesh;Coffee-powered+Java+Developer;From+Design+to+Development;I+build+both+functional+and;User-friendly+Applications)](https://git.io/typing-svg)
 
 
-
-
 <!--
 **chandra-lokesh/chandra-lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
