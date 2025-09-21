@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Chandra+Lokesh;Coffee-powered+Java+Developer;From+Design+to+Development;I+build+both+functional+and;User-friendly+Applications)](https://git.io/typing-svg)
 
-I'm a passionate **Software Developer** with a focus on building robust, scalable, and user-centric applications. I specialize in full-stack development, with a strong foundation in Java, Spring Boot, and modern web technologies. I thrive on solving complex problems and am dedicated to improving code reliability and efficiency.
+I’m a Software Developer who loves building things that are not just functional but also a joy to use. My secret sauce? A solid mix of Java, Spring Boot, and Angular to cook up full-stack applications that are scalable, reliable, and maybe a little bit magical. I live for a good challenge and am always on the hunt for ways to make code faster, cleaner, and more robust.
 
 -----
 
