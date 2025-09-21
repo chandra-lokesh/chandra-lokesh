@@ -1,13 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Chandra+Lokesh;Coffee-powered+Java+Developer;From+Design+to+Development;I+build+both+functional+and;User-friendly+Applications)](https://git.io/typing-svg)
 
-Based on your request, I've updated the GitHub profile README to include a section for your GitHub stats.
-
-To do this, I've used a popular tool called `github-readme-stats` which generates an SVG image of your stats. You will need to replace `anuraghazra` with your actual GitHub username, `chandawarlokesh`, in the provided markdown code block.
-
-Here is the updated professional GitHub profile README for you to use.
-
-### Hi there, I'm Chandra Lokesh G 👋
-
 I'm a passionate **Software Developer** with a focus on building robust, scalable, and user-centric applications. I specialize in full-stack development, with a strong foundation in Java, Spring Boot, and modern web technologies. I thrive on solving complex problems and am dedicated to improving code reliability and efficiency.
 
 -----
