@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Chandra+Lokesh;Coffee-powered+Java+Developer;From+Design+to+Development;I+build+both+functional+and;User-friendly+Applications)](https://git.io/typing-svg)
 
 
-# Hi there 👋, I'm [Your Name]
-
 Welcome to my GitHub profile! I am passionate about coding, open-source, and building impactful projects. 🚀
 
 ---
@@ -12,10 +10,10 @@ Welcome to my GitHub profile! I am passionate about coding, open-source, and bui
 ## 📊 GitHub Stats
 
 ### GitHub Contribution Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra-lokesh&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-lokesh&layout=compact&theme=radical)
 
 ---
 
