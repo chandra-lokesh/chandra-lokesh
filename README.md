@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I am passionate about coding, open-source, and bui
 
 ## 📊 GitHub Stats
 
-### GitHub Contribution Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra-lokesh&show_icons=true&theme=radical)
+<!-- ### GitHub Contribution Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra-lokesh&show_icons=true&theme=radical) -->
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-lokesh&layout=compact&theme=radical)
