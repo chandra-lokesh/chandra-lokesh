@@ -28,11 +28,13 @@ I'm a passionate **Software Developer** with a focus on building robust, scalabl
 
 #### **StockBridge**
 
-A full-stack stock market simulation platform that allows users to execute virtual trades with real-time market data. The backend is built with a secure and scalable microservices architecture using **Java Spring Boot, Spring Security, and Spring Cloud**.
+A full-stack stock market simulation platform that allows users to execute virtual trades with real-time market data. The backend is built with a secure and scalable microservices architecture using **Java Spring Boot, Spring Security, and Spring Cloud**. 
+Link: https://github.com/chandra-lokesh/Capstone-Project
 
 #### **IgniteInvest**
 
 I spearheaded the backend development for this platform, designed to connect startups and investors. The project features a scalable microservices architecture using **Spring Boot and Gradle**, with secure, token-based authentication using **JWT and Spring Security**.
+Link: https://github.com/chandra-lokesh/Ignite-Invest
 
 -----
 
@@ -44,9 +46,8 @@ I am always looking for opportunities to learn and grow. My experience ranges fr
 
 ### 📫 Let's Connect
 
-  * **LinkedIn**: [Your LinkedIn Profile URL]
+  * **LinkedIn**: https://www.linkedin.com/in/chandralokeshg/
   * **Email**: lovachandralokesh@gmail.com
-  * **GitHub**: [Your GitHub Profile URL]
 
 <!--
 **chandra-lokesh/chandra-lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
