@@ -4,7 +4,9 @@ I'm a passionate **Software Developer** with a focus on building robust, scalabl
 
 -----
 
-### 📈 My GitHub Stats
+### 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-lokesh&layout=compact&theme=radical)
 
 -----
 
