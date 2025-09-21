@@ -1,49 +1,58 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Chandra+Lokesh;Coffee-powered+Java+Developer;From+Design+to+Development;I+build+both+functional+and;User-friendly+Applications)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Chandra+Lokesh;Coffee-powered+Java+Developer;From+Design+to+Development;I+build+both+functional+and;User-friendly+Applications)](https://git.io/typing-svg)
+Based on your request, I've updated the GitHub profile README to include a section for your GitHub stats.
 
+To do this, I've used a popular tool called `github-readme-stats` which generates an SVG image of your stats. You will need to replace `anuraghazra` with your actual GitHub username, `chandawarlokesh`, in the provided markdown code block.
 
-Welcome to my GitHub profile! I am passionate about coding, open-source, and building impactful projects. 🚀
+Here is the updated professional GitHub profile README for you to use.
 
----
+### Hi there, I'm Chandra Lokesh G 👋
 
-## 📊 GitHub Stats
+I'm a passionate **Software Developer** with a focus on building robust, scalable, and user-centric applications. I specialize in full-stack development, with a strong foundation in Java, Spring Boot, and modern web technologies. I thrive on solving complex problems and am dedicated to improving code reliability and efficiency.
 
-<!-- ### GitHub Contribution Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra-lokesh&show_icons=true&theme=radical) -->
+-----
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-lokesh&layout=compact&theme=radical)
+### 📈 My GitHub Stats
 
----
+-----
 
-## 🌱 Currently Learning
-- [Your Current Language/Framework/Tool]
-- [Another Language/Framework/Tool]
+### 💻 What I'm currently working on
 
----
+  * **Software Developer 1 at UST**: I'm leading the end-to-end development of a legacy IT Service Management (ITSM) system, rebuilding both the frontend and backend to improve performance and user experience. I recently drove a quality assurance initiative that increased test coverage from 0.3% to 93% on a critical banking project.
 
-## 💻 Projects & Contributions
-Here are some of my notable repositories:
+-----
 
-- [Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1) - Short description
-- [Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2) - Short description
-- [Project 3](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3) - Short description
+### 🛠️ My Technical Toolkit
 
-You can check out more projects in my [GitHub repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories).
+  * **Languages**: Java, JavaScript, SQL
+  * **Technologies/Frameworks**: Spring Framework, Spring Boot, Angular, MySql, JSP
+  * **Developer/Design Tools**: Git, AWS, SonarQube, Jenkins, Docker, Postman, Figma
 
----
+-----
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- [Twitter](https://twitter.com/YOUR_TWITTER)
-- [Portfolio](https://YOUR_WEBSITE)
+### 🚀 Featured Projects
 
----
+#### **StockBridge**
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+A full-stack stock market simulation platform that allows users to execute virtual trades with real-time market data. The backend is built with a secure and scalable microservices architecture using **Java Spring Boot, Spring Security, and Spring Cloud**.
 
+#### **IgniteInvest**
 
+I spearheaded the backend development for this platform, designed to connect startups and investors. The project features a scalable microservices architecture using **Spring Boot and Gradle**, with secure, token-based authentication using **JWT and Spring Security**.
+
+-----
+
+### 🌱 Learning and Growth
+
+I am always looking for opportunities to learn and grow. My experience ranges from full-stack development to UI/UX design, and I am committed to delivering high-quality, impactful solutions.
+
+-----
+
+### 📫 Let's Connect
+
+  * **LinkedIn**: [Your LinkedIn Profile URL]
+  * **Email**: lovachandralokesh@gmail.com
+  * **GitHub**: [Your GitHub Profile URL]
 
 <!--
 **chandra-lokesh/chandra-lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
