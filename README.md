@@ -6,7 +6,7 @@ I’m a Software Developer who loves building things that are not just functiona
 
 ### 📈 Most Used Languages
 
-![Top Languages]()
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-lokesh&layout=compact&theme=radical)
 
 -----
 
